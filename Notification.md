@@ -2,6 +2,7 @@
 Notification
 
 ## Category
+```
 Notification category: incoming call (voice or video) or similar synchronous communication request.
 call
 
@@ -70,3 +71,4 @@ stopwatch
 
 Notification category: missed call.
 missed_call
+```
